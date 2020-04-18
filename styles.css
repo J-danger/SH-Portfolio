@@ -10,14 +10,19 @@ body {
      /* Full height */
     
 
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;  
-  background-size: cover;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;  
+    background-size: cover;
+}
+
+.btn.btn-info {
+    margin: 5px;
 }
 
 .container {
     text-align: center;
+    /* margin-top: 0%; */
 }
 
 
@@ -27,7 +32,7 @@ body {
     margin-bottom: 10px; /* Added */
     width: 18rem;
     background: transparent;
-    margin-top: 7%;
+    /* margin-top: 5%; */
 }
 
 .project-cards {
