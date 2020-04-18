@@ -37,7 +37,7 @@ body {
 }
 
 .project-cards {
-    width: 100%; /*can be in percentage also.*/
+    width: 100%; /*can be in percenta#ge also.*/
     height: auto;
     margin: 0 auto;
     /* padding: 10px; */
@@ -67,6 +67,10 @@ body {
 
 .form-control {
     margin-bottom: 5px;
+}
+
+#github, #linkedin {
+    margin-bottom:-1px;
 }
 
 
